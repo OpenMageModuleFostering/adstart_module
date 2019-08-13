@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Adstart_Module",
+    "type": "magento-module",
+    "license": "MITL",
+    "homepage": "",
+    "description": "Extends the Magento API for use with AdStart Web Application.",
+    "authors": [
+    {
+        "name": "David Denton",
+        "email": "dpdenton@yahoo.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

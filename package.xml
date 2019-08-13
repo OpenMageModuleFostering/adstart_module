@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Adstart_Module</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="https://opensource.org/licenses/MIT">MITL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Extends the Magento API for use with AdStart Web Application.</summary>
+    <description>Extends the Magento API for use with AdStart Web Application.</description>
+    <notes>Initial release.</notes>
+    <authors><author><name>David Denton</name><user>dpdenton</user><email>dpdenton@yahoo.com</email></author></authors>
+    <date>2016-09-30</date>
+    <time>14:54:49</time>
+    <contents><target name="mageetc"><dir name="."><dir name="app"><dir name="etc"><file name="Adstart_Module.xml" hash=""/></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>4.1.0</min><max>5.6.26</max></php></required></dependencies>
+</package>
