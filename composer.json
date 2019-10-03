@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/Adstart_Module",
+    "name": "openmage-module-fostering\/adstart_module",
     "type": "magento-module",
     "license": "MITL",
     "homepage": "",
